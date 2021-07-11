@@ -2,14 +2,14 @@ import * as firebase from 'firebase'
 import 'firebase/auth';
 import 'firebase/firestore'
 
- var firebaseConfig = {
-    apiKey: "AIzaSyAKUYTF7dMBpXMTflfQcpB13nZ5i5Uj9_s",
-    authDomain: "gifted-chat-770d7.firebaseapp.com",
-    projectId: "gifted-chat-770d7",
-    storageBucket: "gifted-chat-770d7.appspot.com",
-    messagingSenderId: "608672962354",
-    appId: "1:608672962354:web:8cce3440147a0027da292b"
-  };
+var firebaseConfig = {
+  apiKey: "AIzaSyAhqpkMgUD0_ogi20dJf7ja2DPOAMLEjAE",
+  authDomain: "gifted-chat-a4483.firebaseapp.com",
+  projectId: "gifted-chat-a4483",
+  storageBucket: "gifted-chat-a4483.appspot.com",
+  messagingSenderId: "468986953779",
+  appId: "1:468986953779:web:b41523b4133afc3e37a346"
+};
 
   let app;
 

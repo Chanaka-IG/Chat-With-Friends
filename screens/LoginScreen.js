@@ -35,7 +35,7 @@
         <ImageBackground
                 blurRadius={4}
                 style={styles.background}
-                source={require("../assets/back1.jpg")}
+                source={require("../assets/back2.jpg")}
             >
                   <View style={styles.container}>
              
